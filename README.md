@@ -16,7 +16,7 @@ If we need to pull the pool and virtual service data or the search and find the 
 	 2. LIST THE ALL POOL LIST
 		./F5_load_balancer_read_pull.sh LBIP pool list
 			 ex: ./F5_load_balancer_read_pull.sh F5-LBIP-IP pool list
-==================================
+
 	 3. TO LIST THE VIP AND POOL WITH VIP IP ADRRESS
 		./F5_load_balancer_read_pull.sh LBIP vspool
 			 ex: ./F5_load_balancer_read_pull.sh F5-LBIP-IP vspool
