@@ -12,7 +12,7 @@ clear
    echo -e "=================================="
    echo -e "\t\033[0;101mNOTE: PRERQUISTE: INSTALL jq & UPDATE THE LB CREDENTIALS \033[0m"
    echo -e "=================================="
-   echo -e "\t$0 <LBIP>  [vs|pool|vs|vspool|pnode|pnoded|pnodee|pip|pname]"
+   echo -e "\t$0 <LBIP>  [vs|pool|vspool|pnode|pnoded|pnodee|ip|name|pip|pname]"
    echo -e "=================================="
    echo -e "\t\033[1m 1. LIST THE VIRTUAL SERVICE OR VIP\033[0m"
    echo -e "\t\t$0 LBIP vs [list]"
